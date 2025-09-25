@@ -4,11 +4,6 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and build
 
 ## 🚀 Projects
 
-Here are some of my featured repositories:
-
-- [📦 Project Name](https://github.comon of the project, what it does, and why it’s cool._
-
-- [🔧 Another Project](https://github.com/d technologies used._
 
 <!--## 🛠️ Skills & Tools
 
